@@ -42,4 +42,5 @@ All file paths appearing at the top of each script are absolute file paths. Note
 SAS scripts need to be run before R scripts. Ideally, the analysis could be reproduced by simply running the following scripts in the order:
 1. W:/ASMA3/master_script_sas.sas
 2. W:/ASMA3/master_script_r.R
+
 However, when running the scripts at the first time, we highly propose running each of them script by script, guided by the above master scripts.
