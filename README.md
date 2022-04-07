@@ -1,7 +1,9 @@
 # README for replication files 
 
 Article: “Cost Sharing and Primary Care Use: Evidence from Staggered Copayment Adoption and Later Abolition” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
+
 Pre-analysis plan: (LINK WILL BE AVAILABLE HERE)
+
 Date: April 2022 <br>
 
 
