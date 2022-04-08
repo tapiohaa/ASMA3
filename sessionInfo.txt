@@ -1,0 +1,15 @@
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] did_2.0.0         broom_0.7.10      lfe_2.8-7         Matrix_1.3-4      fastDummies_1.6.3 stargazer_5.2.2   openxlsx_4.2.4   
+ [8] patchwork_1.1.1   ggplot2_3.3.5     readxl_1.3.1      data.table_1.14.2
+
+loaded via a namespace (and not attached):
+ [1] zip_2.2.0        Rcpp_1.0.7       ggpubr_0.4.0     cellranger_1.1.0 pillar_1.6.4     compiler_4.0.5   tools_4.0.5     
+ [8] lifecycle_1.0.1  tibble_3.1.5     gtable_0.3.0     lattice_0.20-45  pkgconfig_2.0.3  rlang_0.4.12     DBI_1.1.1       
+[15] withr_2.4.2      dplyr_1.0.7      generics_0.1.1   vctrs_0.3.8      grid_4.0.5       tidyselect_1.1.1 glue_1.4.2      
+[22] R6_2.5.1         rstatix_0.7.0    fansi_0.5.0      carData_3.0-4    Formula_1.2-4    car_3.0-12       tidyr_1.1.4     
+[29] purrr_0.3.4      magrittr_2.0.1   backports_1.3.0  scales_1.1.1     ellipsis_0.3.2   abind_1.4-5      assertthat_0.2.1
+[36] xtable_1.8-4     colorspace_2.0-2 ggsignif_0.6.3   sandwich_3.0-1   utf8_1.2.2       stringi_1.7.5    munsell_0.5.0   
+[43] crayon_1.4.2     zoo_1.8-9       
