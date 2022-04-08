@@ -21,6 +21,8 @@ There are other barriers to access besides the wait times and filling the applic
 
 ## Reproducing the analysis
 
+Exactly reproducing the results is unfortunately likely not possible because receiving exactly the same data that we use is unlikely due to reasons not in our control. First and foremost, the registries we use are continuously updated. The data from 2015 extracted in 2021 may be different from the data from 2015 extracted in 2023. We do not extract the raw data from databases. Instead, this is done by the data controllers (THL and Kela). However, the differences should be small and the estimates should be robust to the underlying sample changing a little bit.
+
 ### Software
 
 Several statistical software are offered in the Fiona remote access system. We first use SAS 9.4 to extract smaller subsets of the larger data tables. Most of the data cleaning, construction, and analyses are conducted with R 4.0.5. 
