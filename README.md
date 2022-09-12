@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Cost Sharing and Primary Care Use: Evidence from Staggered Copayment Adoption and Later Abolition” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
+Article: “Effects of Nurse Visit Copayments: Does the Primary Care Use of the Poor Respond More?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
 
-Pre-analysis plan: https://doi.org/10.17605/OSF.IO/FV2GA
+Version 1; pre-analysis plan: https://osf.io/skuv9/
 
-Date: April 2022 <br>
+Date: September 2022 <br>
 
 
 ## The contents
