@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Effects of Nurse Visit Copayments: Does the Primary Care Use of the Poor Respond More?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
+Article: “Effects of Nurse Visit Copayment on Primary Care Use: Do Low-Income Households Pay the Price?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2023)
 
-Version 1; pre-analysis plan: https://osf.io/skuv9/
+Version 2 (latest), Version 1, and the pre-analysis plan: https://osf.io/skuv9/
 
-Date: September 2022 <br>
+Date: February 2023 <br>
 
 
 ## The contents
