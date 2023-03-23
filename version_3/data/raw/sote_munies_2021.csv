@@ -1,0 +1,302 @@
+﻿Kunta-koodi;Kunta;Asukasluku 31.12.2019;Shp:n koodi;Sairaanhoitopiiri;"Kuntien sos- ja terveystoimen järjestäminen: 
+101 = kunta, koko sote, 
+201 = ky koko sote, 
+202 = ky terv.huolto ja yksittäisiä sos.palveluja, 
+203 = ky vain terv.huolto, 
+301 = vastuukunta koko sote, 
+302 = vk terv.huolto ja yksittäisiä sos.palveluja, 
+303 = vk vain terv.huolto";Yhteistoiminta-alue: Kuntayhtymä;Yhteistoiminta-alue: Vastuukuntamalli;Vastuukunta;Sosiaalihuollon toimielin;Sosiaali- ja terveydenhuollon toimielin/toimielimet;Terveyskeskus;Lisätietoja
+020;Akaa; 16 475   ;6;Pirkanmaa;302;;Akaan ja Urjalan yhteistoiminta-alue;Akaa;;perusturvalautakunta;Akaan ja Urjalan yhteistoiminta-alue;Lisäksi perusturvavaliokunta johtaa ja valvoo sosiaalityön tehtäväalueen toimintaa sekä päättää asioista sosiaalityön tehtäväalueella. Perusturvavaliokunta toimii sosiaalihuoltolain mukaisena toimielimenä 
+005;Alajärvi; 9 562   ;15;Etelä-Pohjanmaa;301;;Järvi-Pohjanmaan perusturva, yhteistoiminta-alue;Alajärvi;;perusturvalautakunta;Järvi-Pohjanmaan perusturva, yhteistoiminta-alue;Lappajärvi liittynyt yt-alueeseen 1.1.2019.
+009;Alavieska; 2 519   ;18;Pohjois-Pohjanmaa;201;Peruspalvelukuntayhtymä Kallio;;;;;Peruspalvelukuntayhtymä Kallio;
+010;Alavus; 11 468   ;15;Etelä-Pohjanmaa;201;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);;;;;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);Terveyspalvelut tuottaa Pihlajalinnan ja Kuusiokuntien yhteinen Kuusiolinnan Terveys Oy 1.1.2016 alkaen, 10 + 5 v. Soinin kunta liittyi mukaan 1.1.2017 alkaen erotessaan Järvi-Pohjanmaan yhteistoiminta-alueesta. Kunnasssa hyvinvointilautakunta
+016;Asikkala; 8 083   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;Kunnassa hyvinvointilautakunta
+018;Askola; 4 943   ;25;HUS;101;;;;;perusturvalautakunta;Askolan terveyskeskus;
+019;Aura; 3 941   ;3;Varsinais-Suomi;203;Pöytyän kansanterveystyön ky;;;perusturvalautakunta;;Pöytyän kansanterveystyön ky;
+046;Enonkoski; 1 361   ;11;Itä-Savo;202;Itä-Savon sairaanhoitopiirin kuntayhtymä;;;;;Itä-Savon sairaanhoitopiirin kuntayhtymä;Kunnat voivat siirtää soteymp.-palvelujen järjestämisvastuun Sosterille eri päätöksellä sekä  sopia eri sopimuksella muut palvelut, joiden tuotantovastuun ne siirtävät. unta haluaa siirtää Sosterin tuotettavaksi.
+047;Enontekiö; 1 838   ;21;Lappi;203;Lapin sairaanhoitopiiri;;;hyvinvointilautakunta;;Muonion-Enontekiön terveyskeskus/Lapin sairaanhoitopiiri;Muonion ja Enontekiön perusterveydenhuollon palvelut siirtyneet Lapin shp:n järjestämisvastuulle 1.10.2017 alkaen
+049;Espoo; 289 731   ;25;HUS;101;;;;;sosiaali- ja terveyslautakunta;Espoon terveyskeskus;
+050;Eura; 11 632   ;4;Satakunta;101;;;;;perusturvalautakunta;Euran terveyskeskus;
+051;Eurajoki; 9 402   ;4;Satakunta;201;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);;;;;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);Eurajoen kunta ja Nakkilan kunta, Kokemäen ja Harjavallan kaupungit ovat siirtäneet sosiaalipalveluiden järjestämisvastuun Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymälle (Kessote) 1.1.2020 lukien.  Sitä ennen järjestimme perusterveydenhuollon kuntien osalta ja nyt 1.1.2021 kaikki sosiaali- ja terveydenhuollon palvelut (pl. erikoissairaanhoito). 
+052;Evijärvi; 2 425   ;15;Etelä-Pohjanmaa;201;Kuntayhtymä Kaksineuvoinen;;;;;Kuntayhtymä Kaksineuvoinen;
+061;Forssa; 16 901   ;5;Kanta-Häme;201;Forssan seudun hyvinvointikuntayhtymä;;;;;Forssan seudun hyvinvointikuntayhtymä;
+069;Haapajärvi; 7 010   ;18;Pohjois-Pohjanmaa;201;Peruspalvelukuntayhtymä Selänne;;;;;Peruspalvelukuntayhtymä Selänne/terveyskeskus;
+071;Haapavesi; 6 758   ;18;Pohjois-Pohjanmaa;302;;Sosiaali- ja terveyspiiri Helmi;Haapavesi;;perusturvalautakunta;Sosiaali- ja terveyspiiri Helmi/terveyskeskus;
+072;Hailuoto; 959   ;18;Pohjois-Pohjanmaa;101;;;;;kunnanhallitus;Hailuodon terveyskeskus;
+074;Halsua; 1 127   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta.
+075;Hamina; 20 111   ;8;Kymenlaakso;201;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);;;;;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);Kunnassa hyvinvointivaliokunta sekä kasvatus- ja koulutusvaliokunta
+077;Hankasalmi; 4 875   ;14;Keski-Suomi;302;;Jyväskylän, Hankasalmen ja Uuraisten yhteistoiminta-alue;Jyväskylä;perusturvalautakunta;;Jyväskylän yhteistoiminta-alueen terveyskeskus (JYTE);
+078;Hanko; 8 199   ;25;HUS;101;;;;;perusturvalautakunta;Hangon terveyskeskus;
+079;Harjavalta; 6 931   ;4;Satakunta;201;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);;;;;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);Eurajoen kunta ja Nakkilan kunta, Kokemäen ja Harjavallan kaupungit ovat siirtäneet sosiaalipalveluiden järjestämisvastuun Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymälle (Kessote) 1.1.2020 lukien.  Sitä ennen järjestimme perusterveydenhuollon kuntien osalta ja nyt 1.1.2021 kaikki sosiaali- ja terveydenhuollon palvelut (pl. erikoissairaanhoito). 
+081;Hartola; 2 697   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;sivistys ja hyvinvointilautakunta
+082;Hattula; 9 422   ;5;Kanta-Häme;101;;;;;perusturvalautakunta;Hattulan terveyskeskus;5 vuoden sopimus Pihlajalinnan kanssa 1.4.2018 alk. Sopimus koskee 2 terveysasemaa, pois lukien hammashuolto, kotisairaanhoitoa, fysioterapiaa, neuvolatoimintaa sekä koulu- ja opiskeluterveydenhuoltoa
+086;Hausjärvi; 8 260   ;5;Kanta-Häme;202;Riihimäen seudun terveyskeskuksen ky;;;perusturvalautakunta;;Riihimäen seudun terveyskeskus;
+111;Heinola; 18 667   ;7;Päijät-Häme;101;;;;;sosiaali- ja terveyslautakunta;Heinolan terveyskeskus;PHHKKY:n jäsen ainoastaan esh:n osalta. Hyvinvointilautakunta 
+090;Heinävesi; 3 254   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa Siun soten neuvottelukunta.. 
+091;Helsinki; 653 835   ;25;HUS;101;;;;;sosiaali- ja terveyslautakunta;Helsingin terveyskeskus;
+097;Hirvensalmi; 2 136   ;10;Etelä-Savo;201;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote;;;;;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote/terveyskeskus;
+098;Hollola; 23 410   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;Hyvinvointivaliokunta
+102;Huittinen; 10 044   ;4;Satakunta;101;;;;;perusturvalautakunta;Huittisten terveyskeskus;
+103;Humppila; 2 184   ;5;Kanta-Häme;201;Forssan seudun hyvinvointikuntayhtymä;;;;;Forssan seudun hyvinvointikuntayhtymä;Eelämänlaatulautakunta, joka vastaa kirjasto-, kulttuuri- ja liikunta-asioista
+105;Hyrynsalmi; 2 271   ;19;Kainuu;201;Kainuun sosiaali- ja terveydenhuollon kuntayhtymä;;;;;Kainuun terveyskeskus;
+106;Hyvinkää; 46 470   ;25;HUS;201;Keski-Uudenmaan sote –kuntayhtymä;;;;;Keski-Uudenmaan sote –kuntayhtymä;Keski-Uudenmaan sote-kuntayhtymän jäsen, järjestäminen 1.1.2018 ja tuotanto 1.1.2019 alk. Kunnassa kulttuuri- ja hyvinvointilautakunta.
+108;Hämeenkyrö; 10 404   ;6;Pirkanmaa;101;;;;;perusturvalautakunta;Hämeenkyrön terveyskeskus;
+109;Hämeenlinna; 67 633   ;5;Kanta-Häme;101;;;;;sosiaali- ja terveyslautaunta ;Hämeenlinnan terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta.
+139;Ii; 9 844   ;18;Pohjois-Pohjanmaa;201;Oulunkaaren kuntayhtymä;;;;;Oulunkaaren terveyskeskus;
+140;Iisalmi; 21 368   ;13;Pohjois-Savo;201;Ylä-Savon sosiaali- ja terveydenhuollon ky;;;;;Ylä-Savon sosiaali- ja terveydenhuollon ky;Kunnassa sivistys- ja hyvinvointilautakunta, hyvinvointijaos
+142;Iitti; 6 711   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä  ;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;
+143;Ikaalinen; 6 942   ;6;Pirkanmaa;101;;;;;sosiaali- ja terveyslautakunta;Ikaalisten terveyskeskus;
+145;Ilmajoki; 12 269   ;15;Etelä-Pohjanmaa;202;JIK-peruspalveluliikelaitoskuntayhtymä;;;perusturvalautakunta;;JIK-peruspalveluliikelaitoskuntayhtymä /terveyskeskus;
+146;Ilomantsi; 4 857   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa hyvinvointilautakunta
+153;Imatra; 26 508   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;Kunnassa hyvinvointilautakunta.
+148;Inari; 6 907   ;21;Lappi;101;;;;;perusturvalautakunta;Inarin terveyskeskus;
+149;Inkoo; 5 386   ;25;HUS;101;;;;;perusturvalautakunta;Inkoon terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta.
+151;Isojoki; 1 951   ;15;Etelä-Pohjanmaa;201;Suupohjan peruspalveluliikelaitoskuntayhtymä;;;;;Suupohjan terveyskeskus;
+152;Isokyrö; 4 522   ;15;Etelä-Pohjanmaa;303;;Seinäjoen ja Isokyrön yhteistoiminta-alue;Seinäjoki;perusturvalautakunta;;Seinäjoen terveyskeskus;
+165;Janakkala; 16 413   ;5;Kanta-Häme;101;;;;;perusturvalautakunta;Janakkalan terveyskeskus;
+167;Joensuu; 76 850   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa sosiaali- ja terveyspalvelujen neuvottelukunta.
+169;Jokioinen; 5 133   ;5;Kanta-Häme;201;Forssan seudun hyvinvointikuntayhtymä;;;;;Forssan seudun hyvinvointikuntayhtymä;
+171;Joroinen; 4 767   ;10;Etelä-Savo;301;;Varkauden ja Joroisten yhteistoiminta-alue;Varkaus;;perusturvalautakunta;Varkauden terveyskeskus;
+172;Joutsa; 4 377   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;perusturvalautakunta;;Keski-Suomen seututerveyskeskus;
+176;Juuka; 4 606   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa hyvinvointilautakunta. 
+177;Juupajoki; 1 844   ;6;Pirkanmaa;301;;Mänttä-Vilppulan ja Juupajoen yhteistoiminta-alue;Mänttä-Vilppula;;;Mänttä-Vilppulan terveyskeskus;Laaja ulkoistus
+178;Juva; 6 116   ;10;Etelä-Savo;201;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote;;;;;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote/terveyskeskus;Kunnassa hyvinvointilautakunta.
+179;Jyväskylä; 142 400   ;14;Keski-Suomi;302;;Jyväskylän, Hankasalmen ja Uuraisten yhteistoiminta-alue;Jyväskylä;;sosiaali- ja terveyslautakunta;Jyväskylän yhteistoiminta-alueen terveyskeskus (JYTE);
+181;Jämijärvi; 1 739   ;4;Satakunta;201;Pohjois-Satakunnan peruspalvelukuntayhtymä PoSa;;;;;Pohjois-Satakunnan terveyskeskus;
+182;Jämsä; 20 182   ;6;Pirkanmaa;301;;Jämsän ja Kuhmoisten yhteistoiminta-alue;Jämsä;;sosiaali- ja terveyslautakunta;Jämsän terveyskeskus;Yhteistoiminta-alueella Kuhmoinen-Jämsä sosiaali- ja terveyspalveluiden tuottaminen ja järjestäminen toteutetaan tilaaja-tuottajamallin mukaisella toiminnalla. Tilaaja-tuottajamallissa Jämsän kaupungin ja Kuhmoisten kunnan yhteinen toimielin on tilaajalautakunta.Jämsän Terveys Oy tuottajana. Jämsän kaupunki myynyt Jokilaakson Terveys Oy:n osakkeet 2018.
+186;Järvenpää; 43 711   ;25;HUS;201;Keski-Uudenmaan sote –kuntayhtymä;;;;;Keski-Uudenmaan sote –kuntayhtymä;Kaupungissa hyvinvointilautakunta. Keski-Uudenman sote 2018 alkaenn järjestäjäkuntayhtymä, 2019 alkaen tuotantoky.
+202;Kaarina; 33 937   ;3;Varsinais-Suomi;101;;;;;sosiaali- ja terveyslautakunta;Kaarinan terveyskeskus;
+204;Kaavi; 2 893   ;13;Pohjois-Savo;202;Pohjois-Savon sairaanhoitopiiri, perusterveydenhuollon ja vanhusten laitoshoidon liikelaitos Kysteri;;;perusturvalautakunta;;Pohjois-Savon sairaanhoitopiiri, Kysteri/terveyskeskus;"Suunnitellut yhteistoimintasopimuksen purkamista ja ulkoistamista. STM pyytänyt selvitystä rajoituslain nojalla.
+VN velvoittanut16.8. 2018 Kaavin ja Pyhäjärven jatkamaan nykyisissä yhteistoiminta-alueessaan."
+205;Kajaani; 36 709   ;19;Kainuu;201;Kainuun sosiaali- ja terveydenhuollon kuntayhtymä;;;;;Kainuun terveyskeskus;
+208;Kalajoki; 12 373   ;18;Pohjois-Pohjanmaa;301;;Kalajoen ja Merijärven yhteistoiminta-alue;Kalajoki;;perusturvalautakunta;Kalajoen terveyskeskus;
+211;Kangasala; 31 868   ;6;Pirkanmaa;301;;Kangasalan ja Pälkäneen yhteistoiminta-alue;Kangasala;;sosiaali- ja terveyslautakunta;Kangasalan terveyskeskus;
+213;Kangasniemi; 5 356   ;10;Etelä-Savo;201;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote;;;;;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote/terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta
+214;Kankaanpää; 12 906   ;4;Satakunta;201;Pohjois-Satakunnan peruspalvelukuntayhtymä PoSa;;;;;Pohjois-Satakunnan terveyskeskus;Kunnassa hyvinvointilautakunta.
+216;Kannonkoski; 1 339   ;14;Keski-Suomi;201;Perusturvaliikelaitos Saarikka;;;;;Perusturvaliikelaitos Saarikka/terveyskeskus;
+217;Kannus; 5 464   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+218;Karijoki; 1 245   ;15;Etelä-Pohjanmaa;201;Suupohjan peruspalveluliikelaitoskuntayhtymä;;;;;Suupohjan terveyskeskus;
+224;Karkkila; 8 714   ;25;HUS;201;Perusturvakuntayhtymä Karviainen;;;;;Perusturvakuntayhtymä Karviainen;
+226;Karstula; 3 949   ;14;Keski-Suomi;201;Perusturvaliikelaitos Saarikka;;;;;Perusturvaliikelaitos Saarikka/terveyskeskus;
+230;Karvia; 2 342   ;4;Satakunta;201;Pohjois-Satakunnan peruspalvelukuntayhtymä PoSa;;;;;Pohjois-Satakunnan terveyskeskus;
+231;Kaskinen; 1 246   ;16;Vaasa;201;Rannikko-Pohjanmaan sosiaali- ja perusterveydenhuollon ky;;;;;Rannikko-Pohjanmaan terveyskeskus;Kunnassa peruturvalautakunta.
+232;Kauhajoki; 13 184   ;15;Etelä-Pohjanmaa;201;Suupohjan peruspalveluliikelaitoskuntayhtymä;;;;;Suupohjan terveyskeskus;Kunnassa hyvinvointijohtokunta
+233;Kauhava; 15 726   ;15;Etelä-Pohjanmaa;201;Kuntayhtymä Kaksineuvoinen;;;;;Kuntayhtymä Kaksineuvoinen;Kunnassa elämänlaatulautakunta
+235;Kauniainen; 9 797   ;25;HUS;101;;;;;sosiaali- ja terveyslautakunta;Kauniaisten terveyskeskus;
+236;Kaustinen; 4 261   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+239;Keitele; 2 202   ;13;Pohjois-Savo;202;Pohjois-Savon sairaanhoitopiiri, perusterveydenhuollon ja vanhusten laitoshoidon liikelaitos Kysteri;;;perustuvalautakunta;;Pohjois-Savon sairaanhoitopiiri, Kysteri/terveyskeskus;
+240;Kemi; 20 707   ;20;Länsi-Pohja;101;;;;;sosiaali- ja terveyslautakunta;Kemin terveyskeskus;Mehiläinen Länsi-Pohja Oy tuottaa  1.6.2018 lähtien 15 v. Kemissä ja Torniossa sijaitsevissa toimipisteissä näiden sekä Keminmaan ja Simon kunnan asukkaille pth-palvelut ja esh:n: lääkärin ja sairaanhoitajan palveluja, hammashuoltoa, koulu- ja opiskeluterveydenhuollon lääkäripalveluja, äitiys- ja lastenneuvolan lääkäripalveluja, fysioterapiaa, laboratoriopalveluja sekä kuvantamistutkimuksia.
+320;Kemijärvi; 7 274   ;21;Lappi;101;;;;;sosiaali- ja terveyslautakunta;Kemijärven terveyskeskus;Lisäksi hyvinvointilautakunta
+241;Keminmaa; 8 079   ;20;Länsi-Pohja;101;;;;;hyvinvointilautakunta;Keminmaan terveyskeskus;Mehiläinen Länsi-Pohja Oy tuottaa  1.6.2018 lähtien15 v. Kemissä ja Torniossa sijaitsevissa toimipisteissä näiden sekä Keminmaan ja Simon kunnan asukkaille pth-palvelut ja esh:n: lääkärin ja sairaanhoitajan palveluja, hammashuoltoa, koulu- ja opiskeluterveydenhuollon lääkäripalveluja, äitiys- ja lastenneuvolan lääkäripalveluja, fysioterapiaa, laboratoriopalveluja sekä kuvantamistutkimuksia.
+322;Kemiönsaari; 6 640   ;3;Varsinais-Suomi;101;;;;;peruspalvelulautakunta;Kemiönsaaren terveyskeskus;
+244;Kempele; 18 355   ;18;Pohjois-Pohjanmaa;101;;;;;kunnanhallitus;Kempeleen terveyskeskus;Viranomaislautakunta päättää niistä asioista, jotka lakien mukaan tulee käsitellä monijäsenisessä toimielimessä, joka ei voi olla kunnanhallitus. 
+245;Kerava; 36 756   ;25;HUS;101;;;;;sosiaali- ja terveyslautakunta;Keravan terveyskeskus;
+249;Keuruu; 9 605   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;perusturvalautakunta;;Keski-Suomen seututerveyskeskus;
+250;Kihniö; 1 865   ;6;Pirkanmaa;301;;Parkanon ja Kihniön yhteistoiminta-alue;Parkano;;;Parkanon terveyskeskus;Pihlajalinna Oy/Kolmostien terveys tuottajana Parkano järjestäjänä 
+256;Kinnula; 1 620   ;14;Keski-Suomi;101;;;;;perusturvalautakunta;Kinnulan terveyskeskus;Kinnula kuuluu yhteislautakuntaan (Kinnula, Pihtipudas ja Viitasaari), joka käsittelee mm. yhtenäiset asiakasmaksut, omaishoidon palkkioluokat ym. käytännön asioita. Lisäksi mm. antavat yhteisiä lausuntoja. Kinnula järjestää omana tuotantona sosiaalihuollon palvelut, Terveystalo tuottaa terveyspalvelut 1.10.2017 alkaen.
+257;Kirkkonummi; 39 586   ;25;HUS;101;;;;;perusturvalautakunta;Kirkkonummen terveyskeskus;
+260;Kitee; 10 136   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;
+261;Kittilä; 6 453   ;21;Lappi;101;;;;;sosiaali- ja terveyslautakunta;Kittilän terveyskeskus;
+263;Kiuruvesi; 7 998   ;13;Pohjois-Savo;201;Ylä-Savon sosiaali- ja terveydenhuollon ky;;;;;Ylä-Savon sosiaali- ja terveydenhuollon ky;
+265;Kivijärvi; 1 096   ;14;Keski-Suomi;201;Perusturvaliikelaitos Saarikka;;;;;Perusturvaliikelaitos Saarikka/terveyskeskus;
+271;Kokemäki; 7 103   ;4;Satakunta;201;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);;;;;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);Eurajoen kunta ja Nakkilan kunta, Kokemäen ja Harjavallan kaupungit ovat siirtäneet sosiaalipalveluiden järjestämisvastuun Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymälle (Kessote) 1.1.2020 lukien.  Sitä ennen järjestimme perusterveydenhuollon kuntien osalta ja nyt 1.1.2021 kaikki sosiaali- ja terveydenhuollon palvelut (pl. erikoissairaanhoito). 
+272;Kokkola; 47 681   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+273;Kolari; 3 846   ;21;Lappi;101;;;;;sosiaali- ja terveyslautakunta;Kolarin terveyskeskus;
+275;Konnevesi; 2 627   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;sosiaali- ja terveyslautakunta;;Keski-Suomen seututerveyskeskus;
+276;Kontiolahti; 14 821   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;
+280;Korsnäs; 2 077   ;16;Vaasa;201;Rannikko-Pohjanmaan sosiaali- ja perusterveydenhuollon ky;;;;;Rannikko-Pohjanmaan terveyskeskus;Kunnassa perusturvalautakunta.
+284;Koski Tl; 2 308   ;3;Varsinais-Suomi;302;;Härkätien sosiaali- ja terveyspalvelujen yhteistoiminta-alue;Lieto;sosiaalilautakunta;;Härkätien terveyskeskus;Kunnassa hyvinvointilautakunta.
+285;Kotka; 52 126   ;8;Kymenlaakso;201;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);;;;;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);Kunnassa hyvinvointilautakunta
+286;Kouvola; 82 113   ;8;Kymenlaakso;201;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);;;;;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);
+287;Kristiinankaupunki; 6 486   ;16;Vaasa;201;Rannikko-Pohjanmaan sosiaali- ja perusterveydenhuollon ky;;;;;Rannikko-Pohjanmaan terveyskeskus;Kunnassa hyvinvointilautakunta.
+288;Kruunupyy; 6 428   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+290;Kuhmo; 8 190   ;19;Kainuu;201;Kainuun sosiaali- ja terveydenhuollon kuntayhtymä;;;;;Kainuun terveyskeskus;
+291;Kuhmoinen; 2 206   ;6;Pirkanmaa;301;;Jämsän ja Kuhmoisten yhteistoiminta-alue;Jämsä;;;Jämsän terveyskeskus;Jämsä vastaa sote-järjestämisestä, tuottajana Jämsän Terveys Oy.
+297;Kuopio; 119 282   ;13;Pohjois-Savo;303;;Kuopion ja Tuusniemen yhteistoiminta-alue;Kuopio;;perusturva- ja terveyslautakunta;Kuopion terveyskeskus;Kunnassa hyvinvoinnin edistämisen lautakunta.
+300;Kuortane; 3 551   ;15;Etelä-Pohjanmaa;201;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);;;;;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);Tuottajana Pihlajalinnan ja Kuusiokuntien yhteisyritys Kuusiolinnan Terveys Oy 2016, 10 + 5 v. Soinin kunta liittyi mukaan 1.1.2017 alkaen erotessaan Järvi-Pohjanmaan yhteistoiminta-alueesta.
+301;Kurikka; 20 678   ;15;Etelä-Pohjanmaa;202;JIK-peruspalveluliikelaitoskuntayhtymä;;;;;JIK-peruspalveluliikelaitoskuntayhtymä /terveyskeskus;
+304;Kustavi; 949   ;3;Varsinais-Suomi;302;;Uudenkaupungin, Kustavin, Pyhärannan, Taivassalon ja Vehmaan yhteistoiminta-alue;Uusikaupunki;sosiaalilautakunta;;Uudenkaupungin terveyskeskus;
+305;Kuusamo; 15 134   ;18;Pohjois-Pohjanmaa;101;;;;;perusturvalautakunta;Kuusamon terveyskeskus;
+312;Kyyjärvi; 1 313   ;14;Keski-Suomi;201;Perusturvaliikelaitos Saarikka;;;;;Perusturvaliikelaitos Saarikka/terveyskeskus;Kunnassa sosiaali- ja terveyspalvelujaosto
+316;Kärkölä; 4 368   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;Kunnassa sivistys- ja hyvinvointilautakunta
+317;Kärsämäki; 2 576   ;18;Pohjois-Pohjanmaa;101;;;;;kunnanhallitus;Kärsämäen terveyskeskus;Kunta osajäsenenä ky. Selänteessä. Kunnassa hyvinvoinnin ja terveyden edistämisen lautakunta. Ulkoistus Attendolle 1.7.2015-30.6.2022 + 5 vuoden optio
+398;Lahti; 119 823   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;
+399;Laihia; 8 017   ;16;Vaasa;302;;Vaasan ja Laihian yhteistoiminta-alue;Vaasa;perusturvalautakunta;;Vaasan terveyskeskus;
+400;Laitila; 8 588   ;3;Varsinais-Suomi;101;;;;;sosiaali- ja terveysvaliokunta;Laitilan terveyskeskus;
+407;Lapinjärvi; 2 606   ;25;HUS;301;;Loviisan ja Lapinjärven yhteistoiminta-alue;Loviisa;;;Loviisan terveyskeskus;Kunnassa kh:n perusturvajaosto.
+402;Lapinlahti; 9 485   ;13;Pohjois-Savo;101;;;;;palvelulautakunta;Lapinlahden terveyskeskus;
+403;Lappajärvi; 2 996   ;15;Etelä-Pohjanmaa;301;;Järvi-Pohjanmaan perusturva, yhteistoiminta-alue;Alajärvi;;;Järvi-Pohjanmaan perusturva, yhteistoiminta-alue;
+405;Lappeenranta; 72 634   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;Kunnassa lasten ja nuoren lautakunta 
+408;Lapua; 14 278   ;15;Etelä-Pohjanmaa;101;;;;;perusturvalautakunta;Lapuan terveyskeskus;
+410;Laukaa; 18 903   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;perusturvalautakunta;;Keski-Suomen seututerveyskeskus;
+416;Lemi; 2 971   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;
+418;Lempäälä; 23 523   ;6;Pirkanmaa;101;;;;;hyvinvointilautakunta;Lempäälän terveyskeskus;
+420;Leppävirta; 9 454   ;13;Pohjois-Savo;202;Pohjois-Savon sairaanhoitopiiri, perusterveydenhuollon ja vanhusten laitoshoidon liikelaitos Kysteri;;;perusturvalautakunta;;Pohjois-Savon sairaanhoitopiiri, Kysteri/terveyskeskus;
+421;Lestijärvi; 719   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+422;Lieksa; 10 884   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa hyvinvointilautakunta.
+423;Lieto; 19 994   ;3;Varsinais-Suomi;302;;Härkätien sosiaali- ja terveyspalvelujen yhteistoiminta-alue;Lieto;;sosiaali- ja terveyslautakunta;Härkätien terveyskeskus;
+425;Liminka; 10 191   ;18;Pohjois-Pohjanmaa;101;;;;;viranomaislautakunta;Limingan terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta
+426;Liperi; 12 084   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa hyvinvointilautakunta
+444;Lohja; 45 965   ;25;HUS;101;;;;;Sosiaali- ja terveyslautakunta;Lohjan terveyskeskus;Lasten, nuorten ja perheiden lautakunta
+430;Loimaa; 15 875   ;3;Varsinais-Suomi;302;;Loimaan ja Oripään yhteistoiminta-alue;Loimaa;;hyvinvointivaliokunta;Loimaan terveyskeskus;
+433;Loppi; 7 828   ;5;Kanta-Häme;202;Riihimäen seudun terveyskeskuksen ky;;;perusturvalautakunta;;Riihimäen seudun terveyskeskus;
+434;Loviisa; 14 772   ;25;HUS;301;;Loviisan ja Lapinjärven yhteistoiminta-alue;Loviisa;;perusturvalautakunta;Loviisan terveyskeskus;
+435;Luhanka; 690   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;perusturvalautakunta;;Keski-Suomen seututerveyskeskus;
+436;Lumijoki; 2 020   ;18;Pohjois-Pohjanmaa;101;;;;;perusturvalautakunta;Lumijoen terveyskeskus;Tuotanto ulkoistettu Terveystalolle 1.1.2018 alkaen 5 v. Terveystalo irtisanoi sopimuksen päättymään 31.3.2020.. Kunnassa sivistys- ja hyvinvointilautakunta.
+440;Luoto; 5 417   ;16;Vaasa;301;;Pietarsaaren seudun yhteistoiminta-alue;Pietarsaari;;;Pietarsaaren seudun terveyskeskus;
+441;Luumäki; 4 636   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;
+475;Maalahti; 5 475   ;16;Vaasa;201;Rannikko-Pohjanmaan sosiaali- ja perusterveydenhuollon ky;;;;;Rannikko-Pohjanmaan terveyskeskus;Kunnassa peruturvalautakunta.
+480;Marttila; 2 013   ;3;Varsinais-Suomi;302;;Härkätien sosiaali- ja terveyspalvelujen yhteistoiminta-alue;Lieto;sosiaalilautakunta;;Härkätien terveyskeskus;Kunnassa hyvivnvointilautakunta
+481;Masku; 9 534   ;3;Varsinais-Suomi;201;Perusturvakuntayhtymä Akseli;;;;;Perusturvakuntayhtymä Akseli/terveyskeskus;Kunnassa hyvinvointilautakunta
+483;Merijärvi; 1 089   ;18;Pohjois-Pohjanmaa;301;;Kalajoen ja Merijärven yhteistoiminta-alue;Kalajoki;;;Kalajoen terveyskeskus;
+484;Merikarvia; 3 067   ;4;Satakunta;301;;Porin perusturvan yhteistoiminta-alue;Pori;;;Porin seudun terveyskeskus;
+489;Miehikkälä; 1 857   ;8;Kymenlaakso;201;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);;;;;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);
+491;Mikkeli; 53 134   ;10;Etelä-Savo;201;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote;;;;;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote/terveyskeskus;Kaupungissa hyvinvoinnin ja osallisuuden lautakunta.
+494;Muhos; 8 908   ;18;Pohjois-Pohjanmaa;101;;;;;sosiaali- ja terveyslautakunta;Muhoksen terveyskeskus;Kunnassa hyvinvointilautakunta
+495;Multia; 1 566   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;perusturvalautakunta;;Keski-Suomen seututerveyskeskus;
+498;Muonio; 2 308   ;21;Lappi;203;Lapin sairaanhoitopiiri;;;sosiaalilautakunta;;Muonion-Enontekiön terveyskeskus/Lapin sairaanhoitopiiri;Muonion ja Enontekiön perusterveydenhuollon palvelut siirtyneet Lapin shp:n järjestämisvastuulle 1.10.2017 alkaen
+499;Mustasaari; 19 448   ;16;Vaasa;303;;Mustasaaren ja Vöyrin perusterveydenhuollon yhteistoiminta-alue;Mustasaari;;hoivalautakunta (yhteislautakunta), sosiaalilautakunta;Mustasaaren terveyskeskus;
+500;Muurame; 10 164   ;14;Keski-Suomi;101;;;;;Hyvinvoinnin ja palvelujen lautakunta;Muuramen terveyskeskus;Muuramen Hyvinvointi -liikelaitos tuottaa sosiaali- ja terveyspalvelut muuramelaisille. Liikelaitoksen toimintaan kuuluvat myös vanhus- ja vammaispalvelut, suun terveydenhuolto sekä oppilashuolto (koulu- ja opiskelijaterveydenhoito, koulukuraattorit, psykologit). Muuramen Hyvinvointi aloitti toimintansa 1.1.2017. Se on Muuramen kunnan kokonaan omistama liikelaitos. Sopimus Jyväskylän yhteistoiminta-alueen terveyskeskus JYTEn kanssa päättyi vuoden 2016 lopussa. 
+503;Mynämäki; 7 654   ;3;Varsinais-Suomi;201;Perusturvakuntayhtymä Akseli;;;;;Perusturvakuntayhtymä Akseli/terveyskeskus;
+504;Myrskylä; 1 882   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;
+505;Mäntsälä; 20 721   ;25;HUS;201;Keski-Uudenmaan sote –kuntayhtymä;;;;;Keski-Uudenmaan sote –kuntayhtymä;Kunnassa hyvinvointilautakunta. Mäntsälä-Pornaisen sote-lautakunta jatkaa 2021 asti.
+508;Mänttä-Vilppula; 9 855   ;6;Pirkanmaa;301;;Mänttä-Vilppulan ja Juupajoen yhteistoiminta-alue;Mänttä-Vilppula;;peruspalvelulautakunta;Mänttä-Vilppulan terveyskeskus;Pihlajalinna Terveys Oy/Mäntävuoren Terveys Oy yhteisyritys tuottajana
+507;Mäntyharju; 5 791   ;10;Etelä-Savo;201;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote;;;;;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote/terveyskeskus;
+529;Naantali; 19 314   ;3;Varsinais-Suomi;101;;;;;sosiaali- ja terveyslautakunta;Naantalin terveyskeskus;
+531;Nakkila; 5 329   ;4;Satakunta;201;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);;;;;Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymä (Kessote);Eurajoen kunta ja Nakkilan kunta, Kokemäen ja Harjavallan kaupungit ovat siirtäneet sosiaalipalveluiden järjestämisvastuun Keski-Satakunnan sosiaali- ja terveydenhuollon kuntayhtymälle (Kessote) 1.1.2020 lukien.  Sitä ennen järjestimme perusterveydenhuollon kuntien osalta ja nyt 1.1.2021 kaikki sosiaali- ja terveydenhuollon palvelut (pl. erikoissairaanhoito). 
+535;Nivala; 10 639   ;18;Pohjois-Pohjanmaa;201;Peruspalvelukuntayhtymä Kallio;;;;;Peruspalvelukuntayhtymä Kallio;Kunnassa hyvivnvointilautakunta
+536;Nokia; 33 929   ;6;Pirkanmaa;101;;;;;perusturvalautakunta;Nokian terveyskeskus;
+538;Nousiainen; 4 715   ;3;Varsinais-Suomi;201;Perusturvakuntayhtymä Akseli;;;;;Perusturvakuntayhtymä Akseli/terveyskeskus;
+541;Nurmes; 9 552   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa hyvinvointilautakunta.
+543;Nurmijärvi; 42 993   ;25;HUS;201;Keski-Uudenmaan sote –kuntayhtymä;;;;;Keski-Uudenmaan sote –kuntayhtymä;Kunnassa hyvinvointilautakunta.
+545;Närpiö; 9 479   ;16;Vaasa;201;Rannikko-Pohjanmaan sosiaali- ja perusterveydenhuollon ky;;;;;Rannikko-Pohjanmaan terveyskeskus;Kunnassa perusturvalautakunta.
+560;Orimattila; 16 003   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;Kunnassa sivistys- ja hyvinvointilautakunta
+561;Oripää; 1 329   ;3;Varsinais-Suomi;302;;Loimaan ja Oripään yhteistoiminta-alue;Loimaa;sosiaalilautakunta;;Loimaan terveyskeskus;
+562;Orivesi; 9 158   ;6;Pirkanmaa;301;;Tampereen ja Oriveden yhteistoiminta-alue;Tampere;;;Tampereen terveyskeskus;Kunnassa lasten ja nuorten lautakunta sekä elämänlaatulautakunta
+563;Oulainen; 7 288   ;18;Pohjois-Pohjanmaa;101;;;;;perusturvalautakunta;Oulaisten terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta
+564;Oulu; 205 489   ;18;Pohjois-Pohjanmaa;101;;;;;hyvinvointilautakunta;Oulun terveyskeskus;
+309;Outokumpu; 6 688   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Kunnassa hyvinvointilautakunta ja kunnanhallituksen alainen Siun soten neuvottelukunta
+576;Padasjoki; 2 896   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;
+577;Paimio; 10 850   ;3;Varsinais-Suomi;203;Paimion-Sauvon kansanterveystyön ky;;;sosiaali- ja terveyslautakunta;;Paimion-Sauvon terveyskeskus;
+578;Paltamo; 3 273   ;19;Kainuu;201;Kainuun sosiaali- ja terveydenhuollon kuntayhtymä;;;;;Kainuun terveyskeskus;
+445;Parainen; 15 132   ;3;Varsinais-Suomi;101;;;;;sosiaali- ja terveyslautakunta;Paraisten terveyskeskus;
+580;Parikkala; 4 734   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;Kunnassa hyvinvointi- ja sivistyslautakunta
+581;Parkano; 6 404   ;6;Pirkanmaa;301;;Parkanon ja Kihniön yhteistoiminta-alue;Parkano;;perusturvalautakunta;Parkanon terveyskeskus;Kolmostien Terveys Oy (Pihlajalinnan ja Parkanon kaupungin yhteisyritys tuottaa
+599;Pedersören kunta; 11 081   ;16;Vaasa;301;;Pietarsaaren seudun yhteistoiminta-alue;Pietarsaari;;sosiaali- ja terveyslautakunta;Pietarsaaren seudun terveyskeskus;
+583;Pelkosenniemi; 939   ;21;Lappi;203;Pelkosenniemen-Savukosken kansanterveystyön ky;;;hyvinvointilautakunta;;Pelkosenniemen-Savukosken terveyskeskus;
+854;Pello; 3 373   ;21;Lappi;101;;;;;hyvinvointilautakunta;Pellon terveyskeskus;
+584;Perho; 2 759   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+588;Pertunmaa; 1 690   ;10;Etelä-Savo;201;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote;;;;;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote/terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta.
+592;Petäjävesi; 3 841   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;hyvinvointilautakunta;;Keski-Suomen seututerveyskeskus;
+593;Pieksämäki; 17 682   ;10;Etelä-Savo;101; ;;;;perusturvalautakunta;Pieksämäen terveyskeskus;
+595;Pielavesi; 4 391   ;13;Pohjois-Savo;202;Pohjois-Savon sairaanhoitopiiri, perusterveydenhuollon ja vanhusten laitoshoidon liikelaitos Kysteri;;;perusturvalautakunta;;Pohjois-Savon sairaanhoitopiiri, Kysteri/terveyskeskus;PSSHP järjestää jäsenkuntienerikoissairaanhoidon
+598;Pietarsaari; 19 208   ;16;Vaasa;301;;Pietarsaaren seudun yhteistoiminta-alue;Pietarsaari;;sosiaali- ja terveyslautakunta;Pietarsaaren seudun terveyskeskus;
+601;Pihtipudas; 4 032   ;14;Keski-Suomi;301;;Viitasaaren ja Pihtiputaan yhteistoiminta-alue;Viitasaari;;;Viitasaaren terveyskeskus;
+604;Pirkkala; 19 623   ;6;Pirkanmaa;301;;Pirkkalan ja Vesilahden yhteistoiminta-alue;Pirkkala;;Hyvinvointilautakunta;Pirkkalan terveyskeskus;
+607;Polvijärvi; 4 246   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;
+608;Pomarkku; 2 089   ;4;Satakunta;201;Pohjois-Satakunnan peruspalvelukuntayhtymä PoSa;;;;;Pohjois-Satakunnan terveyskeskus;Kunnassa hyvinvointilautakunta
+609;Pori; 83 934   ;4;Satakunta;301;;Porin perusturvan yhteistoiminta-alue;Pori;;perusturvalautakunta;Porin seudun terveyskeskus;
+611;Pornainen; 5 035   ;25;HUS;201;Keski-Uudenmaan sote –kuntayhtymä;;;;;Keski-Uudenmaan sote –kuntayhtymä;Mäntsälä-Pornaisen yhteinen sote-lautakunta jatkaa 2021 asti.
+638;Porvoo; 50 380   ;25;HUS;101;;;;;sosiaali- ja terveyslautakunta;Porvoon sosiaali- ja terveyskeskus;
+614;Posio; 3 183   ;21;Lappi;101;;;;;hyvinvointilautakunta;Posion terveyskeskus;Palvelut tuottaa Coronari-ryhmittymä.
+615;Pudasjärvi; 7 873   ;18;Pohjois-Pohjanmaa;201;Oulunkaaren kuntayhtymä;;;;;Oulunkaaren terveyskeskus;
+616;Pukkila; 1 860   ;7;Päijät-Häme;201;Päijät-Hämeen hyvinvointikuntayhtymä;;;;;Päijät-Hämeen hyvinvointikuntayhtymä;Kunnassa ei lainkaan muita lautakuntia kuin lakisääteiset.
+619;Punkalaidun; 2 828   ;3;Varsinais-Suomi;301;;Sastamalan seudun sosiaali- ja terveyspalvelut, Sotesi;Sastamala;;;Sastamalan terveyskeskus;
+620;Puolanka; 2 528   ;19;Kainuu;101;;;;;kunnanhallitus;Puolangan terveyskeskus;Kainuun sosiaali- terveyspalvekujen ky:n osajäsen. Perstason sote-palvelujen ulkoistus Attendolle voimassa 2013-2022 . Terveystalo ostanut Attendon Suomen toiminnat. Kauppa odottaa Kkv:n hyväksyntää. Kunnanhallituksen alaisena sosiaali- ja terveydenhuollon yksilöjaosto..
+623;Puumala; 2 151   ;10;Etelä-Savo;201;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote;;;;;Etelä-Savon sosiaali- ja terveyspalvelujen kuntayhtymä Essote/terveyskeskus;Kunnassa hyvinvointilautakunta
+624;Pyhtää; 5 140   ;8;Kymenlaakso;201;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);;;;;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);Kunnassa hyvinvointilautakunta, joss suomen ja ruotisinkieliset jaostot. 
+625;Pyhäjoki; 3 077   ;18;Pohjois-Pohjanmaa;201;Raahen seudun hyvinvointikuntayhtymä;;;;;Raahen seudun terveyskeskus;
+626;Pyhäjärvi; 5 131   ;18;Pohjois-Pohjanmaa;201;Peruspalvelukuntayhtymä Selänne;;;;;Peruspalvelukuntayhtymä Selänne/terveyskeskus;VN velvoittanut 16.8.2018Kaavin ja Pyhäjärven jatkamaan nykyisissä yhteistoiminta-alueessaan.
+630;Pyhäntä; 1 578   ;18;Pohjois-Pohjanmaa;302;;Sosiaali- ja terveyspiiri Helmi;Haapavesi;perusturvalautakunta;;Sosiaali- ja terveyspiiri Helmi/terveyskeskus;
+631;Pyhäranta; 2 004   ;3;Varsinais-Suomi;302;;Uudenkaupungin, Kustavin, Pyhärannan, Taivassalon ja Vehmaan yhteistoiminta-alue;Uusikaupunki;peruturvalautakunta;;Uudenkaupungin terveyskeskus;
+635;Pälkäne; 6 435   ;6;Pirkanmaa;301;;Kangasalan ja Pälkäneen yhteistoiminta-alue;Kangasala;;;Kangasalan terveyskeskus;
+636;Pöytyä; 8 276   ;3;Varsinais-Suomi;203;Pöytyän kansanterveystyön ky;;;perusturvalautakunta;;Pöytyän kansanterveystyön ky;
+678;Raahe; 24 679   ;18;Pohjois-Pohjanmaa;201;Raahen seudun hyvinvointikuntayhtymä;;;;;Raahen seudun terveyskeskus;
+710;Raasepori; 27 536   ;25;HUS;101;;;;;sosiaali- ja terveyslautakunta;Raaseporin terveyskeskus;
+680;Raisio; 24 056   ;3;Varsinais-Suomi;301;;Raision ja Ruskon yhteistoiminta-alue;Raisio;;sosiaali- ja terveyspalvelujen lautakunta;Raision terveyskeskus;
+681;Rantasalmi; 3 431   ;11;Itä-Savo;101;;;;;kunnanhallitus;Rantasalmen terveyskeskus;Sote-ulkoistus Terveystalolle 2015-2020 loppuun. Rantasalmen valtuusto päätti 8.6.2020 jatkaa suorahankintana sopimusta Terveystalon kanssa vuosina 2021 ja 2022.
+683;Ranua; 3 783   ;21;Lappi;101;;;;;hyvinvointilautakunta;Ranuan terveyskeskus;
+684;Rauma; 39 205   ;4;Satakunta;101;;;;;sosiaali- ja terveysvaliokunta;Rauman terveyskeskus;
+686;Rautalampi; 3 121   ;13;Pohjois-Savo;203;Sisä-Savon terveydenhuollon ky;;;perusturvalautakunta;;Sisä-Savon terveyskeskus;Kuntayhtymässä nykyisin Rautalampi ja Suonenjoki.Tervo ja Vesanto irtaantuneet. 
+687;Rautavaara; 1 602   ;13;Pohjois-Savo;202;Pohjois-Savon sairaanhoitopiiri, perusterveydenhuollon ja vanhusten laitoshoidon liikelaitos Kysteri;;;hyvinvointilautakunta;;Pohjois-Savon sairaanhoitopiiri, Kysteri/terveyskeskus;
+689;Rautjärvi; 3 226   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;Kunnassa hyvinvointilautakunta
+691;Reisjärvi; 2 718   ;17;Keski-Pohjanmaa;201;Peruspalvelukuntayhtymä Selänne;;;;;Peruspalvelukuntayhtymä Selänne/terveyskeskus;
+694;Riihimäki; 28 793   ;5;Kanta-Häme;202;Riihimäen seudun terveyskeskuksen ky;;;sosiaali- ja terveyslautakunta;;Riihimäen seudun terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta.
+697;Ristijärvi; 1 272   ;19;Kainuu;201;Kainuun sosiaali- ja terveydenhuollon kuntayhtymä;;;;;Kainuun terveyskeskus;
+698;Rovaniemi; 63 042   ;21;Lappi;101;;;;;perusturvalautakunta;Rovaniemen terveyskeskus;
+700;Ruokolahti; 4 994   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;Kunnassa hyvinvointipalvelujen lautakunta. 
+702;Ruovesi; 4 283   ;6;Pirkanmaa;301;;Virrat-Ruovesi -yhteistoiminta-alue;Virrat;perusturvalautakunta;;Virtain terveyskeskus;Kv päättänyt  2.7.2018 purkaa Virrat-Ruovesi sote-yhteistoimintasopimuksen..Luottamuspula liittyy Keiturin Sote Oy:n osakekauppoihin. STM määrännyt pysymään yhteistoiminnassa.
+704;Rusko; 6 327   ;3;Varsinais-Suomi;301;;Raision ja Ruskon yhteistoiminta-alue;Raisio;;hyvinvointilautakunta;Raision terveyskeskus;
+707;Rääkkylä; 2 126   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Rääkkylän ulkoistus Attendolle 2013-2020. Kunta liittynyt Siun soteen 2017 alkaen, sopimus siirtynyt samassa yhteydessä kuntayhtymälle. Kunnassa hyvinvointilautakunta. 
+729;Saarijärvi; 9 309   ;14;Keski-Suomi;201;Perusturvaliikelaitos Saarikka;;;;;Perusturvaliikelaitos Saarikka/terveyskeskus;
+732;Salla; 3 400   ;21;Lappi;101;;;;;hyvinvointipalvelulautakunta;Sallan terveyskeskus;
+734;Salo; 51 833   ;3;Varsinais-Suomi;101;;;;;sosiaali- ja terveyslautakunta;Salon terveyskeskus;
+790;Sastamala; 24 277   ;6;Pirkanmaa;301;;Sastamalan seudun sosiaali- ja terveyspalvelut, Sotesi;Sastamala;;sosiaali- ja terveyslautakunta;Sastamalan terveyskeskus;Sastamalan seudun sosiaali- ja terveyspalvelut, Sotesi. Sastamala ja Punkalaiden sote-palveluissa. Ymp.terveydenhuollossa laajempi kuntayhtymä.
+738;Sauvo; 2 945   ;3;Varsinais-Suomi;203;Paimion-Sauvon kansanterveystyön ky;;;sosiaali- ja terveyslautakunta;;Paimion-Sauvon terveyskeskus;
+739;Savitaipale; 3 383   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;
+740;Savonlinna; 32 974   ;11;Itä-Savo;202;Itä-Savon sairaanhoitopiirin kuntayhtymä;;;;;Itä-Savon sairaanhoitopiirin kuntayhtymä;
+742;Savukoski; 1 005   ;21;Lappi;203;Pelkosenniemen-Savukosken kansanterveystyön ky;;;sosiaalilautakunta;;Pelkosenniemen-Savukosken terveyskeskus;
+743;Seinäjoki; 63 781   ;15;Etelä-Pohjanmaa;303;;Seinäjoen ja Isokyrön yhteistoiminta-alue;Seinäjoki;;hyvinvointilautakunta;Seinäjoen terveyskeskus;
+746;Sievi; 4 910   ;18;Pohjois-Pohjanmaa;201;Peruspalvelukuntayhtymä Kallio;;;;;Peruspalvelukuntayhtymä Kallio;
+747;Siikainen; 1 437   ;4;Satakunta;201;Pohjois-Satakunnan peruspalvelukuntayhtymä PoSa;;;;;Pohjois-Satakunnan terveyskeskus;Kunnassa hyvinvointilautakunta.
+748;Siikajoki; 5 145   ;18;Pohjois-Pohjanmaa;201;Raahen seudun hyvinvointikuntayhtymä;;;;;Raahen seudun terveyskeskus;kunnanhallitus
+791;Siikalatva; 5 231   ;18;Pohjois-Pohjanmaa;101;;;;;kunnanhallitus;Siikalatvan terveyskeskus;1.7.2017 tuottajana toiminut Mehiläinen Oy. Sopimuksen kesto 10 v.
+749;Siilinjärvi; 21 423   ;13;Pohjois-Savo;101;;;;;sosiaali- ja terveyslautakunta;Siilinjärven terveyskeskus;
+751;Simo; 2 988   ;20;Länsi-Pohja;201;Oulunkaaren kuntayhtymä;;;;;Oulunkaaren terveyskeskus;
+753;Sipoo; 21 170   ;25;HUS;101;;;;;sosiaali- ja terveysvaliokunta;Sipoon terveyskeskus;
+755;Siuntio; 6 145   ;25;HUS;101;;;;;Perusturvalautakunta;Siuntion terveyskeskus;
+758;Sodankylä; 8 303   ;21;Lappi;101;;;;;perusturvalautakunta;Sodankylän terveyskeskus;
+759;Soini; 2 052   ;15;Etelä-Pohjanmaa;201;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);;;;;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);Tuottajana Kuusiolinnan Terveys Oy, Pihlajalinnan ja Kuusiokuntien yhteisyritys  
+761;Somero; 8 711   ;3;Varsinais-Suomi;101;;;;;perusturvalautakunta;Someron terveyskeskus;
+762;Sonkajärvi; 3 897   ;13;Pohjois-Savo;201;Ylä-Savon sosiaali- ja terveydenhuollon ky;;;;;Ylä-Savon sosiaali- ja terveydenhuollon ky;
+765;Sotkamo; 10 336   ;19;Kainuu;201;Kainuun sosiaali- ja terveydenhuollon kuntayhtymä;;;;;Kainuun terveyskeskus;
+768;Sulkava; 2 492   ;11;Itä-Savo;101;;;;;peruspalvelulautakunta;Sulkavan terveyskeskus;Ulkoistus  Attendolle 1.1.2017 alkaen 6 + 4 v.
+777;Suomussalmi; 7 727   ;19;Kainuu;201;Kainuun sosiaali- ja terveydenhuollon kuntayhtymä;;;;;Kainuun terveyskeskus;
+778;Suonenjoki; 7 064   ;13;Pohjois-Savo;203;Sisä-Savon terveydenhuollon ky;;;sosiaalilautakunta;;Sisä-Savon terveyskeskus;Alkuperäisistä jäsenkunnista Suonenjoki, Rautalampi, Kerttula, Tervo ja Vesanto, jäljellä Suonenjoki ja Rautalampi
+781;Sysmä; 3 657   ;7;Päijät-Häme;101;;;;;hyvinvointivaliokunta ja sosiaali- ja terveysjaosto ;Sysmän terveyskeskus;Ulkoistus Attendolle 2016-2025 loppuum + 5 v optio
+783;Säkylä; 6 721   ;4;Satakunta;101;;;;;perusturvalautakunta;Säkylän terveyskeskus;
+831;Taipalsaari; 4 671   ;9;Etelä-Karjala;201;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote;;;;;Etelä-Karjalan sosiaali- ja terveyspiiri Eksote/terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta
+832;Taivalkoski; 3 976   ;18;Pohjois-Pohjanmaa;101;;;;;sosiaali- ja terveyslautakunta;Taivalkosken terveyskeskus;
+833;Taivassalo; 1 639   ;3;Varsinais-Suomi;302;;Uudenkaupungin, Kustavin, Pyhärannan, Taivassalon ja Vehmaan yhteistoiminta-alue;Uusikaupunki;;;Uudenkaupungin terveyskeskus;Kunnassa palvelulautakunta
+834;Tammela; 6 015   ;5;Kanta-Häme;201;Forssan seudun hyvinvointikuntayhtymä;;;;;Forssan seudun hyvinvointikuntayhtymä;
+837;Tampere; 238 140   ;6;Pirkanmaa;301;;Tampereen ja Oriveden yhteistoiminta-alue;Tampere;;Sosiaali- ja terveyslautakunta;Tampereen terveyskeskus;
+844;Tervo; 1 520   ;13;Pohjois-Savo;202;Pohjois-Savon sairaanhoitopiiri, perusterveydenhuollon ja vanhusten laitoshoidon liikelaitos Kysteri;;;perusturvalautakunta;;Pohjois-Savon sairaanhoitopiiri, Kysteri/terveyskeskus;
+845;Tervola; 3 001   ;20;Länsi-Pohja;101;;;;;sosiaali- ja terveyslautakunta;Tervolan terveyskeskus;Suurin osa terveyspalveluista ulkoistettu Terveystalolle 1.10.2018 - 31.12.2028
+846;Teuva; 5 076   ;15;Etelä-Pohjanmaa;201;Suupohjan peruspalveluliikelaitoskuntayhtymä;;;;;Suupohjan terveyskeskus;
+848;Tohmajärvi; 4 361   ;12;Pohjois-Karjala;201;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote;;;;;Pohjois-Karjalan sosiaali- ja terveyspalvelujen kuntayhtymä Siun sote/terveyskeskus;Attendo jatkaa palvelujen tuottajana 2019 loppuun asti. Kunta on Siun soten jäsenkunta ja maksaa asukkaidensa palvelusita kuntayhtymälle.
+849;Toholampi; 3 033   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+850;Toivakka; 2 388   ;14;Keski-Suomi;202;Keski-Suomen sairaanhoitopiiri/Keski-Suomen seututerveyskeskus;;;perusturvalautakunta;;Keski-Suomen seututerveyskeskus;
+851;Tornio; 21 602   ;20;Länsi-Pohja;101;;;;;sosiaali- ja terveyslautakunta;Tornion terveyskeskus;Mehiläinen Länsi-Pohja Oy tuottaa  1.6.2018 lähtien 15 v. Kemissä ja Torniossa sijaitsevissa toimipisteissä näiden sekä Keminmaan ja Simon kunnan asukkaille pth-palvelut ja esh:n: lääkärin ja sairaanhoitajan palveluja, hammashuoltoa, koulu- ja opiskeluterveydenhuollon lääkäripalveluja, äitiys- ja lastenneuvolan lääkäripalveluja, fysioterapiaa, laboratoriopalveluja sekä kuvantamistutkimuksia. Kunnassa elämänlaatulautakunta.
+853;Turku; 192 962   ;3;Varsinais-Suomi;101;;;;;sosiaali- ja terveyslautakunta;Turun terveyskeskus;.
+857;Tuusniemi; 2 477   ;13;Pohjois-Savo;303;;Kuopion ja Tuusniemen yhteistoiminta-alue;Kuopio;sosiaalilautakunta;;Kuopion terveyskeskus;
+858;Tuusula; 38 599   ;25;HUS;201;Keski-Uudenmaan sote –kuntayhtymä;;;;;Keski-Uudenmaan sote –kuntayhtymä;Kunnassa hyvinvoinnin ja terveyden edistämisen lautakunta. Keski-Uudenmaan sote ky. 1.1.2018 alkaen järjestämiskky ja 1.1.2019 alkaen myös tuotantoky.
+859;Tyrnävä; 6 637   ;18;Pohjois-Pohjanmaa;101;;;;;sosiaali- ja terveyslautakunta;Tyrnävän terveyskeskus;Kunnassa sivistys- ja hyvinvointilautakunta.
+886;Ulvila; 12 871   ;4;Satakunta;301;;Porin perusturvan yhteistoiminta-alue;Pori;;;Porin seudun terveyskeskus;
+887;Urjala; 4 688   ;6;Pirkanmaa;302;;Akaan ja Urjalan yhteistoiminta-alue;Akaa;perusturvalautakunta;;Akaan ja Urjalan yhteistoiminta-alue;
+889;Utajärvi; 2 676   ;18;Pohjois-Pohjanmaa;201;Oulunkaaren kuntayhtymä;;;;;Oulunkaaren terveyskeskus;Kunnassa hyvinvointivaliokunta
+890;Utsjoki; 1 212   ;21;Lappi;101;;;;;perusturvalautakunta;Utsjoen terveyskeskus;
+892;Uurainen; 3 681   ;14;Keski-Suomi;302;;Jyväskylän, Hankasalmen ja Uuraisten yhteistoiminta-alue;Jyväskylä;peruspalvelulautakunta;;Jyväskylän yhteistoiminta-alueen terveyskeskus (JYTE);
+893;Uusikaarlepyy; 7 464   ;16;Vaasa;301;;Pietarsaaren seudun yhteistoiminta-alue;Pietarsaari;;sosiaali- ja terveyslautakunta;Pietarsaaren seudun terveyskeskus;
+895;Uusikaupunki; 15 522   ;3;Varsinais-Suomi;302;;Uudenkaupungin, Kustavin, Pyhärannan, Taivassalon ja Vehmaan yhteistoiminta-alue;Uusikaupunki;;terveyslautakunta, sosiaalilautakunta;Uudenkaupungin terveyskeskus;
+785;Vaala; 2 792   ;18;Pohjois-Pohjanmaa;201;Oulunkaaren kuntayhtymä;;;;;Oulunkaaren terveyskeskus;Kunnassa hyvinvointilautakunta
+905;Vaasa; 67 636   ;16;Vaasa;302;;Vaasan ja Laihian yhteistoiminta-alue;Vaasa;;sosiaali- ja terveyslautakunta;Vaasan terveyskeskus;
+908;Valkeakoski; 20 972   ;6;Pirkanmaa;101;;;;;sosiaali- ja terveyslautakunta;Valkeakosken terveyskeskus;Kunnassa koulutus- ja hyvinvointilautakunta
+092;Vantaa; 233 775   ;25;HUS;101;;;;;sosiaali- ja terveyslautakunta;Vantaan terveyskeskus;
+915;Varkaus; 20 466   ;13;Pohjois-Savo;301;;Varkauden ja Joroisten yhteistoiminta-alue;Varkaus;;perusturvalautakunta;Varkauden terveyskeskus;
+918;Vehmaa; 2 293   ;3;Varsinais-Suomi;302;;Uudenkaupungin, Kustavin, Pyhärannan, Taivassalon ja Vehmaan yhteistoiminta-alue;Uusikaupunki;sosiaali- ja terveyslautakunta;;Uudenkaupungin terveyskeskus;
+921;Vesanto; 2 014   ;13;Pohjois-Savo;202;Pohjois-Savon sairaanhoitopiiri, perusterveydenhuollon ja vanhusten laitoshoidon liikelaitos Kysteri;;;perusturvalautakunta;;Pohjois-Savon sairaanhoitopiiri, Kysteri/terveyskeskus;
+922;Vesilahti; 4 355   ;6;Pirkanmaa;301;;Pirkkalan ja Vesilahden yhteistoiminta-alue;Pirkkala;;;Pirkkalan terveyskeskus;
+924;Veteli; 3 114   ;17;Keski-Pohjanmaa;201;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite;;;;;Keski-Pohjanmaan sosiaali- ja terveyspalvelukuntayhtymä Soite/terveyskeskus;
+925;Vieremä; 3 579   ;13;Pohjois-Savo;201;Ylä-Savon sosiaali- ja terveydenhuollon ky;;;;;Ylä-Savon sosiaali- ja terveydenhuollon ky;
+927;Vihti; 29 158   ;25;HUS;201;Perusturvakuntayhtymä Karviainen;;;;;Perusturvakuntayhtymä Karviainen;Kunnassa lasten ja nuorten lautakunta.
+931;Viitasaari; 6 176   ;14;Keski-Suomi;301;;Viitasaaren ja Pihtiputaan yhteistoiminta-alue;Viitasaari;;perusturvalautakunta;Viitasaaren terveyskeskus;
+934;Vimpeli; 2 827   ;15;Etelä-Pohjanmaa;301;;Järvi-Pohjanmaan perusturva, yhteistoiminta-alue;Alajärvi;;;Järvi-Pohjanmaan perusturva, yhteistoiminta-alue;
+935;Virolahti; 3 109   ;8;Kymenlaakso;201;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);;;;;Kymenlaakson sosiaali- ja terveyspalvelujen kuntayhtymä (Kymsote);Kunnassa sivistys- ja hyvinvointilautakunta
+936;Virrat; 6 544   ;6;Pirkanmaa;301;;Virrat-Ruovesi -yhteistoiminta-alue;Virrat;;perusturvalautakunta;Virtain terveyskeskus;Palvelut tuottaa Keiturin sote Oy. Ruovesi purkanut sopimuksen luottamuspulan vuoksi 7/2018. STM pyytänyt selvitystä ja vaatinut pysyttäytymään.
+946;Vöyri; 6 461   ;16;Vaasa;303;;Mustasaaren ja Vöyrin perusterveydenhuollon yhteistoiminta-alue;Mustasaari;peruspalvelulautakunta;;Mustasaaren terveyskeskus;
+976;Ylitornio; 3 918   ;20;Länsi-Pohja;101;;;;;peruspalvelulautakunta;Ylitornion terveyskeskus;
+977;Ylivieska; 15 255   ;18;Pohjois-Pohjanmaa;201;Peruspalvelukuntayhtymä Kallio;;;;;Peruspalvelukuntayhtymä Kallio;
+980;Ylöjärvi; 33 254   ;6;Pirkanmaa;101;;;;;perusturvalautakunta;Ylöjärven terveyskeskus;
+981;Ypäjä; 2 343   ;5;Kanta-Häme;201;Forssan seudun hyvinvointikuntayhtymä;;;;;Forssan seudun hyvinvointikuntayhtymä;
+989;Ähtäri; 5 616   ;15;Etelä-Pohjanmaa;201;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);;;;;Kuusiokuntien sosiaali- ja terveyskuntayhtymä (KuusSoTe);Kunnassa sivistys ja hyvinvointilautakunta. Ulkoistus Pihlajalinnan ja Kuusiokuntien yhteiselle Kuusilinnan Terveys Oy:lle 1.1.2016, 10 + 5 v. Soinin kunta liittyi mukaan 1.1.2017 alkaen erotessaan Järvi-Pohjanmaan yhteistoiminta-alueesta.
+992;Äänekoski; 18 765   ;14;Keski-Suomi;101;;;;;perusturvalautakunta;Äänekosken terveyskeskus;
