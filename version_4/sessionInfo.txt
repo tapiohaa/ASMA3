@@ -1,0 +1,33 @@
+R version 4.0.5 (2021-03-31)
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] ROI_1.0-0               purrr_0.3.4             pracma_2.3.8           
+ [4] lpSolveAPI_5.5.2.0-17.7 latex2exp_0.9.4         doParallel_1.0.17      
+ [7] iterators_1.0.13        foreach_1.5.1           CVXR_1.0-10            
+[10] TruncatedNormal_2.2.2   dplyr_1.0.7             fixest_0.10.1          
+[13] staggered_1.1           did_2.1.0               broom_0.7.10           
+[16] lfe_2.8-7.1             Matrix_1.3-2            fastDummies_1.6.3      
+[19] stargazer_5.2.2         openxlsx_4.2.5          sf_1.0-4               
+[22] patchwork_1.1.1         viridis_0.6.2           viridisLite_0.4.0      
+[25] ggplot2_3.3.5           readxl_1.3.1            data.table_1.14.2      
+
+loaded via a namespace (and not attached):
+ [1] tidyr_1.1.4         bit64_4.0.5         carData_3.0-4       rngWELL_0.10-7     
+ [5] Formula_1.2-4       cellranger_1.1.0    slam_0.1-49         randtoolbox_1.31.1 
+ [9] numDeriv_2016.8-1.1 pillar_1.6.4        backports_1.4.1     lattice_0.20-41    
+[13] glue_1.5.1          alabama_2022.4-1    ggsignif_0.6.3      colorspace_2.0-2   
+[17] sandwich_3.0-1      pkgconfig_2.0.3     xtable_1.8-4        scales_1.1.1       
+[21] tibble_3.1.6        proxy_0.4-26        nleqslv_3.3.2       gmp_0.6-5          
+[25] generics_0.1.1      car_3.0-12          ellipsis_0.3.2      ggpubr_0.4.0       
+[29] withr_2.4.3         Rmpfr_0.8-7         magrittr_2.0.1      crayon_1.4.2       
+[33] fansi_0.5.0         nlme_3.1-152        rstatix_0.7.0       class_7.3-18       
+[37] dreamerr_1.2.3      registry_0.5-1      tools_4.0.5         lifecycle_1.0.1    
+[41] stringr_1.4.0       munsell_0.5.0       zip_2.2.0           compiler_4.0.5     
+[45] e1071_1.7-9         rlang_0.4.12        classInt_0.4-3      units_0.7-2        
+[49] grid_4.0.5          gtable_0.3.0        codetools_0.2-18    abind_1.4-5        
+[53] DBI_1.1.1           R6_2.5.1            gridExtra_2.3       zoo_1.8-9          
+[57] bit_4.0.4           utf8_1.2.2          KernSmooth_2.23-18  stringi_1.7.6      
+[61] Rcpp_1.0.7          vctrs_0.3.8         tidyselect_1.1.1   
