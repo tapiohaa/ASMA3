@@ -1,8 +1,8 @@
 # README for replication files 
 
-Article: “Effects of Nurse Visit Copayment on Primary Care Use: Do Low-Income Households Pay the Price?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2024)
+Haaga, Böckerman, Kortelainen, and Tukiainen (2024), “Effects of nurse visit copayment on primary care use: Do low-income households pay the price?”, *Journal of Health Economics*, https://doi.org/10.1016/j.jhealeco.2024.102866
 
-Version 5 (latest), Versions 1 to 4, and the pre-analysis plan: https://osf.io/skuv9/
+Earlier working paper versions and the pre-analysis plan: https://osf.io/skuv9/
 
 Date: February 2024 <br>
 
